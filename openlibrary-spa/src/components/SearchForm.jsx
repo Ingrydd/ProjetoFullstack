@@ -8,7 +8,7 @@ export default function SearchForm() {
     e.preventDefault();
 
     if (!state.query.trim()) {
-      dispatch({ type: "SEARCH_ERROR", payload: "Digite um termo de busca." });
+      dispatch({ type: "SEARCH_ERROR", payload: "Campo vazio!" });
       return;
     }
 
