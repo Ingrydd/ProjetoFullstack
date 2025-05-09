@@ -29,8 +29,8 @@ src/
 > Para executar o projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
-git clone https://github.com/Ingrydd/ProjetoFullstack.git
-cd openlibrary-spa
+- git clone https://github.com/Ingrydd/ProjetoFullstack.git
+- cd openlibrary-spa
 
 2. Instale as dependências:
 npm install
@@ -38,14 +38,15 @@ npm install
 3. Execute o projeto:
 npm run dev
 
-4. Acesse em: http://localhost:5173 (ou no link que aparecer em seu terminal)
+4. Acesse localmente em: http://localhost:5173 (ou no link que aparecer em seu terminal)
 
-> O projeto pode ser acessado online em:
+> O projeto pode ser acessado online em: https://projeto-fullstack-virid.vercel.app/ 
 
 ## 🛠️ Tecnologias Utilizadas
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
+- [Vercel](https://vercel.com/docs)
 - [Material UI](https://mui.com/)
 - [Open Library API](https://openlibrary.org/dev/)
 
